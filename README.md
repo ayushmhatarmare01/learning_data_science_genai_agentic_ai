@@ -91,6 +91,9 @@ To apply my technical knowledge, problem-solving abilities, and practical skills
 ## Connect With Me
 
 GitHub: https://github.com/ayushmhatarmare01
-LinkedIn: Add your LinkedIn profile URL here
+
+LinkedIn: 
+
 I am actively preparing for technical interviews and looking for opportunities to contribute to real-world projects and grow as an engineer.
 
+Learning through practice. Building with purpose. Growing in Data and AI.
