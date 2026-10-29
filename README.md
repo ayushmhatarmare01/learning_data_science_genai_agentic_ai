@@ -1,42 +1,96 @@
-# Python Programming
+# Data Science, Generative AI & Agentic AI
 
-A structured collection of Python implementations, programming concepts, problem-solving exercises, and practical applications.
+## Hi, I'm Ayush 👋
 
-## Core Topics
+### Aspiring Data Scientist | Python | SQL | Machine Learning | Generative AI | Agentic AI
 
-- Python fundamentals and data types
-- Control flow and iteration
-- Data structures and algorithms
-- Functions and modular programming
-- File handling and exception handling
-- Object-oriented programming
-- Python for data science and AI
+I am an engineering graduate interested in Data Science, Data Analytics, Machine Learning, Data Engineering, and AI Engineering.
 
-## Repository Structure
+I have learned concepts across these domains and organized my notes, code examples, exercises, and small practice projects into dedicated folders. This repository serves as a structured reference for revising concepts, practicing problem-solving, and preparing for technical interviews.
 
-```text
-python-learning/
-├── 01_python_basics/
-├── 02_control_flow/
-├── 03_data_structures/
-├── 04_functions_and_modules/
-├── 05_practice_problems/
-└── README.md
-```
+## 🎯 Purpose of This Repository
 
-## Objectives
+- Organize the technical concepts I have learned by topic.
+- Maintain coding examples, notes, and practice exercises in one place.
+- Strengthen problem-solving and programming skills through regular practice.
+- Revise important concepts for technical interviews.
+- Apply theoretical knowledge through small, practical projects.
+- Build a strong foundation for a career in Data Science and AI Engineering.
 
-- Write clear, readable, and maintainable Python code.
-- Develop systematic problem-solving skills.
-- Build reusable programming components.
-- Establish a strong foundation for data science, machine learning, and AI applications.
+## 🛠️ Technical Skills
 
-## Technology
+- **Programming:** Python, SQL
+- **Data Analysis:** Excel, NumPy, Pandas
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
+- **Statistics:** Statistics, Probability, Exploratory Data Analysis (EDA)
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Feature Engineering, Model Evaluation
+- **Deep Learning:** Neural Networks, Deep Learning Fundamentals
+- **Data Engineering:** ETL/ELT, Data Pipelines, Data Quality, Database Concepts
+- **MLOps:** Model Tracking, Deployment, Monitoring
+- **Generative AI:** LLM Fundamentals, Prompt Engineering, Embeddings, Vector Search, Retrieval-Augmented Generation (RAG)
+- **Agentic AI:** AI Agents, Tool Calling, Multi-Step Workflows, Planning, State Management
+- **Development Tools:** Git, GitHub, VS Code
 
-- Python
-- Git and GitHub
-- Visual Studio Code
+## 📚 Topics Covered
 
----
+### 1. Programming and Databases
+- Python Programming
+- SQL and Database Concepts
 
-This repository serves as a code reference for Python programming concepts and practical implementations.
+### 2. Data Analysis and Visualization
+- Excel
+- NumPy and Pandas
+- Data Cleaning and Exploratory Data Analysis (EDA)
+- Statistics and Probability
+- Matplotlib, Seaborn, and Plotly
+- Power BI
+
+### 3. Machine Learning and Deep Learning
+- Supervised and Unsupervised Learning
+- Feature Engineering
+- Model Training and Evaluation
+- Neural Networks and Deep Learning Fundamentals
+
+### 4. Data Engineering and MLOps
+- ETL/ELT Concepts
+- Data Pipelines
+- Database Fundamentals
+- Data Quality and Validation
+- Model Tracking, Deployment, and Monitoring
+
+### 5. Generative AI
+- Large Language Model (LLM) Fundamentals
+- Prompt Engineering
+- Embeddings and Vector Search
+- Retrieval-Augmented Generation (RAG)
+
+### 6. Agentic AI
+- AI Agent Fundamentals
+- Tool Calling and Function Calling
+- Multi-Step Workflows
+- Agent Planning and State Management
+- Error Handling and Evaluation
+
+### 7. Interview Preparation
+- Python Coding Practice
+- SQL Query Practice
+- Data Science Fundamentals
+- Machine Learning Interview Questions
+- Technical Concepts and Revision Notes
+
+## 📌 Repository Overview
+
+This repository is a centralized collection of technical knowledge and practice materials across Data Science, Data Analytics, Machine Learning, Data Engineering, Generative AI, and Agentic AI.
+
+It contains dedicated topic folders with learning notes, code examples, coding exercises, interview preparation materials, and small practice projects. The goal is to keep concepts organized, make revision easier, and demonstrate practical application of the topics covered.
+
+## 🎯 Career Goal
+
+To apply my technical knowledge, problem-solving abilities, and practical skills to real-world challenges and begin my professional career in Data Science or AI Engineering.
+
+## Connect With Me
+
+GitHub: https://github.com/ayushmhatarmare01
+LinkedIn: Add your LinkedIn profile URL here
+I am actively preparing for technical interviews and looking for opportunities to contribute to real-world projects and grow as an engineer.
+
