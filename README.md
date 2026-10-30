@@ -5,7 +5,6 @@
 ### Aspiring Data Scientist | Python | SQL | Machine Learning | Generative AI | Agentic AI
 
 I am an engineering graduate interested in Data Science, Data Analytics, Machine Learning, Data Engineering, and AI Engineering.
-
 I have learned concepts across these domains and organized my notes, code examples, exercises, and small practice projects into dedicated folders. This repository serves as a structured reference for revising concepts, practicing problem-solving, and preparing for technical interviews.
 
 ## 🎯 Purpose of This Repository
@@ -71,19 +70,6 @@ I have learned concepts across these domains and organized my notes, code exampl
 - Agent Planning and State Management
 - Error Handling and Evaluation
 
-### 7. Interview Preparation
-- Python Coding Practice
-- SQL Query Practice
-- Data Science Fundamentals
-- Machine Learning Interview Questions
-- Technical Concepts and Revision Notes
-
-## 📌 Repository Overview
-
-This repository is a centralized collection of technical knowledge and practice materials across Data Science, Data Analytics, Machine Learning, Data Engineering, Generative AI, and Agentic AI.
-
-It contains dedicated topic folders with learning notes, code examples, coding exercises, interview preparation materials, and small practice projects. The goal is to keep concepts organized, make revision easier, and demonstrate practical application of the topics covered.
-
 ## 🎯 Career Goal
 
 To apply my technical knowledge, problem-solving abilities, and practical skills to real-world challenges and begin my professional career in Data Science or AI Engineering.
@@ -91,7 +77,7 @@ To apply my technical knowledge, problem-solving abilities, and practical skills
 ## Connect With Me
 
 GitHub: https://github.com/ayushmhatarmare01
-
+email : ayushmhatarmare01@gmail.com
 LinkedIn: 
 
 I am actively preparing for technical interviews and looking for opportunities to contribute to real-world projects and grow as an engineer.
